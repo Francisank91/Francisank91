@@ -1,7 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Anthony! <br/><a href="https://www.linkedin.com/in/anthonyfrancisli/">Product Marketing & Development Professional</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Olapic Carousel</b>
+  - [Olapic Carousel](https://)
+
+<h2>📃 Certifications:</h2>
+
+- <b>Project Management Professional</b>
+  - [PMP Certified](https://drive.google.com/file/d/1Drvqt2R6Thw9RCpV8Z-pvP6I1eskQNvp/view)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Anthony Francis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/anthonyfrancisli/
 
 <!--
-**Francisank91/Francisank91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
