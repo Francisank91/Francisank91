@@ -2,8 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Olapic Carousel</b>
-  - [Olapic Carousel](https://)
+- <b>University Roster Management System</b>
+  - [University Roster Management System](https://github.com/Francisank91/UniversityRosterManagementSystem)
+- <b>Fineline Inventory Management System</b>
+  - [Fineline Inventory Management System](https://github.com/Francisank91/FinelineInventoryManagementSystem)
+- <b>Axiom Scheduler</b>
+  - [Axiom Scheduler](https://github.com/Francisank91/AxiomScheduler)
 
 <h2>📃 Certifications:</h2>
 
