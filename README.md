@@ -12,7 +12,7 @@
 <h2>📃 Certifications:</h2>
 
 - <b>Project Management Professional</b>
-  - [PMP Certified](https://drive.google.com/file/d/1Drvqt2R6Thw9RCpV8Z-pvP6I1eskQNvp/view)
+  - [PMP Certified](https://drive.google.com/file/d/1tHaUZ-56xa6UJ4rL3HF4hgM_lyQOdNlY/view)
 
 <h2> 🤳 Connect with me:</h2>
 
